@@ -1,0 +1,14 @@
+{
+  "name": "web-starter-template",
+  "version": "0.0.2",
+  "description": "A simple npm package to scaffold a static web project. ",
+  "main": "index.js",
+  "bin": {
+    "create-static-web": "index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Cameron Thompson",
+  "license": "MIT"
+}
